@@ -35,6 +35,12 @@ function main() {
         } else {
             console.log('Sum of numbers:', result);
         }
+        if (err) {
+            console.error('Error adding numbers:', err);
+        } else {
+            console.log('Sum of numbers:', result);
+        }
+        sadasdasdasd
     });
 
     // Other poorly structured code...
